@@ -39,7 +39,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="NetTelebot, Version=1.0.0.4, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\NetTelebot-2.0.1.0.4\lib\NetTelebot.dll</HintPath>
+      <HintPath>..\packages\NetTelebot-2.0.1.0.5\lib\NetTelebot.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
